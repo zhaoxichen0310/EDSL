@@ -1,0 +1,506 @@
+[
+  {
+    "age_group": "18-29",
+    "gender": "Men",
+    "education": "College+",
+    "country": "United States",
+    "answer": "More excited than concerned"
+  },
+  {
+    "age_group": "18-29",
+    "gender": "Men",
+    "education": "College+",
+    "country": "United States",
+    "answer": "More excited than concerned"
+  },
+  {
+    "age_group": "18-29",
+    "gender": "Men",
+    "education": "College+",
+    "country": "United States",
+    "answer": "More excited than concerned"
+  },
+  {
+    "age_group": "18-29",
+    "gender": "Men",
+    "education": "College+",
+    "country": "United States",
+    "answer": "More excited than concerned"
+  },
+  {
+    "age_group": "18-29",
+    "gender": "Men",
+    "education": "College+",
+    "country": "United States",
+    "answer": "More excited than concerned"
+  },
+  {
+    "age_group": "18-29",
+    "gender": "Women",
+    "education": "College+",
+    "country": "United States",
+    "answer": "More excited than concerned"
+  },
+  {
+    "age_group": "18-29",
+    "gender": "Women",
+    "education": "College+",
+    "country": "United States",
+    "answer": "More excited than concerned"
+  },
+  {
+    "age_group": "18-29",
+    "gender": "Women",
+    "education": "College+",
+    "country": "United States",
+    "answer": "More excited than concerned"
+  },
+  {
+    "age_group": "18-29",
+    "gender": "Women",
+    "education": "College+",
+    "country": "United States",
+    "answer": "More excited than concerned"
+  },
+  {
+    "age_group": "18-29",
+    "gender": "Men",
+    "education": "Some college",
+    "country": "United States",
+    "answer": "More excited than concerned"
+  },
+  {
+    "age_group": "18-29",
+    "gender": "Men",
+    "education": "Some college",
+    "country": "United States",
+    "answer": "More excited than concerned"
+  },
+  {
+    "age_group": "18-29",
+    "gender": "Men",
+    "education": "Some college",
+    "country": "United States",
+    "answer": "More excited than concerned"
+  },
+  {
+    "age_group": "18-29",
+    "gender": "Women",
+    "education": "Some college",
+    "country": "United States",
+    "answer": "More concerned than excited"
+  },
+  {
+    "age_group": "18-29",
+    "gender": "Women",
+    "education": "Some college",
+    "country": "United States",
+    "answer": "More concerned than excited"
+  },
+  {
+    "age_group": "18-29",
+    "gender": "Women",
+    "education": "Some college",
+    "country": "United States",
+    "answer": "More concerned than excited"
+  },
+  {
+    "age_group": "18-29",
+    "gender": "Men",
+    "education": "HS or less",
+    "country": "United States",
+    "answer": "More excited than concerned"
+  },
+  {
+    "age_group": "18-29",
+    "gender": "Men",
+    "education": "HS or less",
+    "country": "United States",
+    "answer": "More excited than concerned"
+  },
+  {
+    "age_group": "18-29",
+    "gender": "Women",
+    "education": "HS or less",
+    "country": "United States",
+    "answer": "More concerned than excited"
+  },
+  {
+    "age_group": "18-29",
+    "gender": "Women",
+    "education": "HS or less",
+    "country": "United States",
+    "answer": "More concerned than excited"
+  },
+  {
+    "age_group": "30-49",
+    "gender": "Men",
+    "education": "College+",
+    "country": "United States",
+    "answer": "More excited than concerned"
+  },
+  {
+    "age_group": "30-49",
+    "gender": "Men",
+    "education": "College+",
+    "country": "United States",
+    "answer": "More excited than concerned"
+  },
+  {
+    "age_group": "30-49",
+    "gender": "Men",
+    "education": "College+",
+    "country": "United States",
+    "answer": "More excited than concerned"
+  },
+  {
+    "age_group": "30-49",
+    "gender": "Men",
+    "education": "College+",
+    "country": "United States",
+    "answer": "More excited than concerned"
+  },
+  {
+    "age_group": "30-49",
+    "gender": "Men",
+    "education": "College+",
+    "country": "United States",
+    "answer": "More excited than concerned"
+  },
+  {
+    "age_group": "30-49",
+    "gender": "Women",
+    "education": "College+",
+    "country": "United States",
+    "answer": "More concerned than excited"
+  },
+  {
+    "age_group": "30-49",
+    "gender": "Women",
+    "education": "College+",
+    "country": "United States",
+    "answer": "More concerned than excited"
+  },
+  {
+    "age_group": "30-49",
+    "gender": "Women",
+    "education": "College+",
+    "country": "United States",
+    "answer": "More concerned than excited"
+  },
+  {
+    "age_group": "30-49",
+    "gender": "Women",
+    "education": "College+",
+    "country": "United States",
+    "answer": "More concerned than excited"
+  },
+  {
+    "age_group": "30-49",
+    "gender": "Men",
+    "education": "Some college",
+    "country": "United States",
+    "answer": "More concerned than excited"
+  },
+  {
+    "age_group": "30-49",
+    "gender": "Men",
+    "education": "Some college",
+    "country": "United States",
+    "answer": "More concerned than excited"
+  },
+  {
+    "age_group": "30-49",
+    "gender": "Men",
+    "education": "Some college",
+    "country": "United States",
+    "answer": "More concerned than excited"
+  },
+  {
+    "age_group": "30-49",
+    "gender": "Women",
+    "education": "Some college",
+    "country": "United States",
+    "answer": "More concerned than excited"
+  },
+  {
+    "age_group": "30-49",
+    "gender": "Women",
+    "education": "Some college",
+    "country": "United States",
+    "answer": "More concerned than excited"
+  },
+  {
+    "age_group": "30-49",
+    "gender": "Women",
+    "education": "Some college",
+    "country": "United States",
+    "answer": "More concerned than excited"
+  },
+  {
+    "age_group": "30-49",
+    "gender": "Men",
+    "education": "HS or less",
+    "country": "United States",
+    "answer": "More concerned than excited"
+  },
+  {
+    "age_group": "30-49",
+    "gender": "Men",
+    "education": "HS or less",
+    "country": "United States",
+    "answer": "More concerned than excited"
+  },
+  {
+    "age_group": "30-49",
+    "gender": "Women",
+    "education": "HS or less",
+    "country": "United States",
+    "answer": "More concerned than excited"
+  },
+  {
+    "age_group": "30-49",
+    "gender": "Women",
+    "education": "HS or less",
+    "country": "United States",
+    "answer": "More concerned than excited"
+  },
+  {
+    "age_group": "50-64",
+    "gender": "Men",
+    "education": "College+",
+    "country": "United States",
+    "answer": "More excited than concerned"
+  },
+  {
+    "age_group": "50-64",
+    "gender": "Men",
+    "education": "College+",
+    "country": "United States",
+    "answer": "More excited than concerned"
+  },
+  {
+    "age_group": "50-64",
+    "gender": "Men",
+    "education": "College+",
+    "country": "United States",
+    "answer": "More excited than concerned"
+  },
+  {
+    "age_group": "50-64",
+    "gender": "Men",
+    "education": "College+",
+    "country": "United States",
+    "answer": "More excited than concerned"
+  },
+  {
+    "age_group": "50-64",
+    "gender": "Women",
+    "education": "College+",
+    "country": "United States",
+    "answer": "More concerned than excited"
+  },
+  {
+    "age_group": "50-64",
+    "gender": "Women",
+    "education": "College+",
+    "country": "United States",
+    "answer": "More concerned than excited"
+  },
+  {
+    "age_group": "50-64",
+    "gender": "Women",
+    "education": "College+",
+    "country": "United States",
+    "answer": "More concerned than excited"
+  },
+  {
+    "age_group": "50-64",
+    "gender": "Women",
+    "education": "College+",
+    "country": "United States",
+    "answer": "More concerned than excited"
+  },
+  {
+    "age_group": "50-64",
+    "gender": "Men",
+    "education": "Some college",
+    "country": "United States",
+    "answer": "More concerned than excited"
+  },
+  {
+    "age_group": "50-64",
+    "gender": "Men",
+    "education": "Some college",
+    "country": "United States",
+    "answer": "More concerned than excited"
+  },
+  {
+    "age_group": "50-64",
+    "gender": "Men",
+    "education": "Some college",
+    "country": "United States",
+    "answer": "More concerned than excited"
+  },
+  {
+    "age_group": "50-64",
+    "gender": "Women",
+    "education": "Some college",
+    "country": "United States",
+    "answer": "More concerned than excited"
+  },
+  {
+    "age_group": "50-64",
+    "gender": "Women",
+    "education": "Some college",
+    "country": "United States",
+    "answer": "More concerned than excited"
+  },
+  {
+    "age_group": "50-64",
+    "gender": "Women",
+    "education": "Some college",
+    "country": "United States",
+    "answer": "More concerned than excited"
+  },
+  {
+    "age_group": "50-64",
+    "gender": "Men",
+    "education": "HS or less",
+    "country": "United States",
+    "answer": "More concerned than excited"
+  },
+  {
+    "age_group": "50-64",
+    "gender": "Men",
+    "education": "HS or less",
+    "country": "United States",
+    "answer": "More concerned than excited"
+  },
+  {
+    "age_group": "50-64",
+    "gender": "Women",
+    "education": "HS or less",
+    "country": "United States",
+    "answer": "More concerned than excited"
+  },
+  {
+    "age_group": "50-64",
+    "gender": "Women",
+    "education": "HS or less",
+    "country": "United States",
+    "answer": "More concerned than excited"
+  },
+  {
+    "age_group": "65+",
+    "gender": "Men",
+    "education": "College+",
+    "country": "United States",
+    "answer": "More concerned than excited"
+  },
+  {
+    "age_group": "65+",
+    "gender": "Men",
+    "education": "College+",
+    "country": "United States",
+    "answer": "More concerned than excited"
+  },
+  {
+    "age_group": "65+",
+    "gender": "Men",
+    "education": "College+",
+    "country": "United States",
+    "answer": "More concerned than excited"
+  },
+  {
+    "age_group": "65+",
+    "gender": "Women",
+    "education": "College+",
+    "country": "United States",
+    "answer": "More concerned than excited"
+  },
+  {
+    "age_group": "65+",
+    "gender": "Women",
+    "education": "College+",
+    "country": "United States",
+    "answer": "More concerned than excited"
+  },
+  {
+    "age_group": "65+",
+    "gender": "Women",
+    "education": "College+",
+    "country": "United States",
+    "answer": "More concerned than excited"
+  },
+  {
+    "age_group": "65+",
+    "gender": "Men",
+    "education": "Some college",
+    "country": "United States",
+    "answer": "More concerned than excited"
+  },
+  {
+    "age_group": "65+",
+    "gender": "Men",
+    "education": "Some college",
+    "country": "United States",
+    "answer": "More concerned than excited"
+  },
+  {
+    "age_group": "65+",
+    "gender": "Men",
+    "education": "Some college",
+    "country": "United States",
+    "answer": "More concerned than excited"
+  },
+  {
+    "age_group": "65+",
+    "gender": "Women",
+    "education": "Some college",
+    "country": "United States",
+    "answer": "More concerned than excited"
+  },
+  {
+    "age_group": "65+",
+    "gender": "Women",
+    "education": "Some college",
+    "country": "United States",
+    "answer": "More concerned than excited"
+  },
+  {
+    "age_group": "65+",
+    "gender": "Women",
+    "education": "Some college",
+    "country": "United States",
+    "answer": "More concerned than excited"
+  },
+  {
+    "age_group": "65+",
+    "gender": "Men",
+    "education": "HS or less",
+    "country": "United States",
+    "answer": "More concerned than excited"
+  },
+  {
+    "age_group": "65+",
+    "gender": "Men",
+    "education": "HS or less",
+    "country": "United States",
+    "answer": "More concerned than excited"
+  },
+  {
+    "age_group": "65+",
+    "gender": "Women",
+    "education": "HS or less",
+    "country": "United States",
+    "answer": "More concerned than excited"
+  },
+  {
+    "age_group": "65+",
+    "gender": "Women",
+    "education": "HS or less",
+    "country": "United States",
+    "answer": "More concerned than excited"
+  }
+]
